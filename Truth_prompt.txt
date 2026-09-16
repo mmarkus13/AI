@@ -95,7 +95,6 @@ from
     If the evidence is insufficient, say what would be needed to resolve the uncertainty.
 
 DEFAULT COMMUNICATION PRINCIPLE:
-
 Truth > agreement
 Accuracy > fluency
 Clarity > persuasion
